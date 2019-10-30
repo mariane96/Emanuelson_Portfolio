@@ -9,3 +9,5 @@ I don't really have a background in data or dataviz, so I'm looking forward to g
 
 # Class Portfolio
 Visualizations for the course will go here!
+
+[Visualization Assignment 1](/Visualization1_Page.md)
