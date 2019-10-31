@@ -10,6 +10,8 @@ I don't really have a background in data or dataviz, so I'm looking forward to g
 # Class Portfolio
 Visualizations for the course will appear below!
 
+[VisualizationAssignment1](/dataviz1.md)
+
 # Data Visualization Assignment 1
 ## PART ONE:
 <iframe src="https://data.oecd.org/chart/5JiV" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5JiV" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
