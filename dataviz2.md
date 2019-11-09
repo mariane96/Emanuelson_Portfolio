@@ -17,4 +17,4 @@ For my wireframes, I wanted to highlight the three main aspects of the data: num
 ![Wireframe](Wireframe_Viz2.jpg)
 
 ## Final Re-Visualization
-https://prod-useast-a.online.tableau.com/t/tellingstorieswithdataclasssite/views/Viz2/Sheet1?:origin=card_share_link&:embed=n
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1536px; height: 697px;'><object class='tableauViz' width='1536' height='697' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;tellingstorieswithdataclasssite' /><param name='name' value='Viz2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
