@@ -17,4 +17,4 @@ For my wireframes, I wanted to highlight the three main aspects of the data: num
 ![Wireframe](Wireframe_Viz2.jpg)
 
 ## Final Re-Visualization
-![Visualization](Reviz_2.jpg)
+![Visualization](/Pictures/Reviz_2.jpg)
