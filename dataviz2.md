@@ -17,4 +17,4 @@ For my wireframes, I wanted to highlight the three main aspects of the data: num
 ![Wireframe](Wireframe_Viz2.jpg)
 
 ## Final Re-Visualization
-![Visualization](/Pictures/Reviz_2.jpg)
+https://prod-useast-a.online.tableau.com/t/tellingstorieswithdataclasssite/views/Viz2/Sheet1?:origin=card_share_link&:embed=n
