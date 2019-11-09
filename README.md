@@ -12,3 +12,4 @@ Visualizations for the course will appear below!
 
 [VisualizationAssignment1](/dataviz1.md)
 
+[Critique and Visualization Assignment](/dataviz2.md)
