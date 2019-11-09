@@ -14,6 +14,8 @@ My main issue with the visualization was the over-simplification of the data. On
 
 For my wireframes, I wanted to highlight the three main aspects of the data: number of people in the position, position title, and salary. I wireframed two possible solutions. One of a dot plot-type chart and another as a re-imagined bar chart. Upon receiving some feedback, I was told that the salary aspet seemed to be the most interesting or important piece of data, so that should be more prevalent. As a result, I shifted some of my design to better highlight the salary. I ended up making the main y-axis the salary, while leaving only the job title on the x-axis. This left room to indicate population via shading. 
 
+![Wireframe](Wireframe_Viz2.jpg)
+
 Ideally, if I had a little more control over the Tableau visualization, I would have shrunk the job lables to not have them trail off with a ... But, all in all, I was relatively happy with the data I was able to present with this visualization.
 
 ## Final Re-Visualization
