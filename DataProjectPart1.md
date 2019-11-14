@@ -27,9 +27,12 @@ All my data sets will turn into different graphs to outline different aspects of
 https://datausa.io/profile/cip/visual-performing-arts
 
 ### Link to Data Samples
+
+GUthub flagged my data as being too large to present, so I have provided some sample rows pulled from my full datasheet here for your viewing.
+
 [Highest Paying Location Data](HighestPaying_Locations_Sample.xlsx)
-[Highest Concentration Location Data](SpecialtyLocation_Data.csv)
-[Current Occupation Distribution Data](CurrentOccupations.csv)
+[Highest Concentration Location Data](SpecialtyLocation_Sample.xlsx)
+[Current Occupation Distribution Data](CurrentOccupations_Sample.xlsx)
 
 
 ## Method & Medium
