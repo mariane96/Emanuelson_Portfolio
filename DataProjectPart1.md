@@ -31,9 +31,13 @@ https://datausa.io/profile/cip/visual-performing-arts
 ### Link to Data Samples
 
 Github flagged my data as being too large to present, so I have provided some sample rows pulled from my full datasheet here for your viewing.
-
+#### First Dataset
 [Highest Paying Location Data](HighestPaying_Locations_Sample.xlsx)
+
+#### Second Dataset
 [Highest Concentration Location Data](SpecialtyLocation_Sample.xlsx)
+
+#### Third Dataset
 [Current Occupation Distribution Data](CurrentOccupations_Sample.xlsx)
 
 
