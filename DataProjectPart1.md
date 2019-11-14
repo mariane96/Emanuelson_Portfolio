@@ -1,3 +1,5 @@
+https://mariane96.github.io/Emanuelson_Portfolio/
+
 # Data Project Part 1
 
 ## Outline
@@ -28,7 +30,7 @@ https://datausa.io/profile/cip/visual-performing-arts
 
 ### Link to Data Samples
 
-GUthub flagged my data as being too large to present, so I have provided some sample rows pulled from my full datasheet here for your viewing.
+Github flagged my data as being too large to present, so I have provided some sample rows pulled from my full datasheet here for your viewing.
 
 [Highest Paying Location Data](HighestPaying_Locations_Sample.xlsx)
 [Highest Concentration Location Data](SpecialtyLocation_Sample.xlsx)
