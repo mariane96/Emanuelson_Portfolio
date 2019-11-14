@@ -10,6 +10,8 @@ I don't really have a background in data or dataviz, so I'm looking forward to g
 # Class Portfolio
 Visualizations for the course will appear below!
 
-[VisualizationAssignment1](/dataviz1.md)
+[Visualization Assignment 1](/dataviz1.md)
 
 [Critique and Visualization Assignment](/dataviz2.md)
+
+[Data Project Part 1](/DataProjectPart1.md)
