@@ -27,7 +27,7 @@ All my data sets will turn into different graphs to outline different aspects of
 https://datausa.io/profile/cip/visual-performing-arts
 
 ### Link to Data Samples
-[Highest Paying Location Data](HighestPaying_Locations.csv)
+[Highest Paying Location Data](HighestPaying_Locations_Sample.xlxs)
 [Highest Concentration Location Data](SpecialtyLocation_Data.csv)
 [Current Occupation Distribution Data](CurrentOccupations.csv)
 
