@@ -23,8 +23,10 @@ I selected my data from Data USA when I found a page on their site dedicated to 
 
 All my data sets will turn into different graphs to outline different aspects of my story. I want to use them all to present a comprehensive but coherent outline of people who received visual and performing arts degrees and their current status. While these are all different spreadsheets, they all follow the same subject, so I think it makes sense to treat them as one dataset, for the most part.
 
-
+### Link to Data USA Page
 https://datausa.io/profile/cip/visual-performing-arts
+
+### Link to Data Samples
 [Highest Paying Location Data](HighestPaying_Locations.csv)
 [Highest Concentration Location Data](SpecialtyLocation_Data.csv)
 [Current Occupation Distribution Data](CurrentOccupations.csv)
