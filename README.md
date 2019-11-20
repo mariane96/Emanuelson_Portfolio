@@ -1,4 +1,4 @@
-#Marian's Portfolio for Telling Stories with Data
+# Marian's Portfolio for Telling Stories with Data
 Fall 2019 - Mini 2
 
 # About Me
