@@ -24,11 +24,7 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 
 ## Revised Wireframe/Storyboard
 
-![Revised Storyboard 1](/Rev_DataViz_1.jpg)
 
-![Revised Storyboard 2](/Rev_DataViz_2.jpg)
-
-![Revised Storyboard 3](/Rev_DataViz_3.jpg)
 
 ### Changes Made Based on User Research
 - I changed the order of the first two visuals to make concentration of people first followed by areas with the highest salary. I actually think this is really the most logical way to introduce the data, so I appreciate the comment from my respondent pointing this out.
