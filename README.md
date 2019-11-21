@@ -17,3 +17,5 @@ Visualizations for the course will appear below!
 ## Final Project Pages
 
 [Data Project Part 1](/DataProjectPart1.md)
+
+[Data Project Part 2](/DataProjectPart2.md)
