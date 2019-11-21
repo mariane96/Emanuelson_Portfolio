@@ -40,6 +40,8 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 ## Persona
 
 [Persona of Student Audience](Persona_Anna)
+[Persona of Workforce Audience](Persona_Daniel)
+
 
 ## Moodboard
 
