@@ -13,10 +13,24 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 ### Interview Script & Findings
 [Transcription of Responses](Interviews.pdf) 
 
+#### Most Impactful Findings
+- It seemed that respondents had my audience about 75% right. They mainly thought it was people in the jobs outlined or people getting their degrees in this field, so I was happy with their interpretation of the audience. Their other guesses weren’t that far off of those audience bases. 
+- Another comment I found interesting was to switch the first two maps. The respondent thought the concentration of subjects in certain areas should come first, followed by where these subjects get paid the most.
+- Another concern was the highlighting in visual 3. The respondent wanted all non-degree-related jobs to be in gray, not in the light purple.
+- One comment was to maybe look at their education or student debt, if possible. I will go back into the Data USA and see if there is a data set based in education, in any way.
 
-## Revised Wireframe
+
+## Revised Wireframe/Storyboard
+
+### Changes Made Based on User Research
+- I changed the order of the first two visuals to make concentration of people first followed by areas with the highest salary. I actually think this is really the most logical way to introduce the data, so I appreciate the comment from my respondent pointing this out.
+- I adjusted my shading of visual 3 to make the bars gray instead of light purple. This will end up highlighting the degree-related jobs without confusing the shading with concentration, as it is used in other visuals.
+- I pulled data on what different institutions’ tuition costs, so I will be adding a visualization based on that information due to what one respondent raised as a potentially interesting addition. 
+
 
 ## Persona
+
+[Persona of Student Audience](Persona_Anna)
 
 ## Moodboard
 
