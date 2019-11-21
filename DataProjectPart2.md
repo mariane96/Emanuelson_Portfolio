@@ -11,7 +11,7 @@ My target audience for my visualizations are people in the visual or performing 
 Luckily, being in an Arts Management program, there is no shortage of people in the visual or performing arts fields or people with visual or performing arts degrees. I plan to show my wireframes/storyboard to a few of my classmates around class time or in Hamburg during a break between classes. These people are within my target audience and are within easy reach for interviews, so they make the most sense for this project and scope.
 
 ### Interview Script & Findings
-
+![Transcription of Responses](/Interviews.pdf) 
 
 
 ## Revised Wireframe
