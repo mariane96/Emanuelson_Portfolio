@@ -24,12 +24,17 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 
 ## Revised Wireframe/Storyboard
 
-
+![Revised Storyboard 1](/Fin_DataViz_1.jpg)
+![Revised Storyboard 2](/Fin_DataViz_2.jpg)
+![Revised Storyboard 3](/Fin_DataViz_3.jpg)
+![Revised Storyboard 4](/Fin_DataViz_4.jpg)
+![Revised Storyboard 5](/Fin_DataViz_5.jpg)
+![Revised Storyboard 6](/Fin_DataViz_6.jpg)
 
 ### Changes Made Based on User Research
 - I changed the order of the first two visuals to make concentration of people first followed by areas with the highest salary. I actually think this is really the most logical way to introduce the data, so I appreciate the comment from my respondent pointing this out.
 - I adjusted my shading of visual 3 to make the bars gray instead of light purple. This will end up highlighting the degree-related jobs without confusing the shading with concentration, as it is used in other visuals.
-- I pulled data on what different institutions’ tuition costs, so I will be adding a visualization based on that information due to what one respondent raised as a potentially interesting addition. 
+- I pulled data on what different institutions’ tuition costs, so I added a visualization based on that information due to what one respondent raised as a potentially interesting addition. 
 
 
 ## Persona
