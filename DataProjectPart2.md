@@ -2,6 +2,9 @@
 
 ## Initial Wireframe
 
+![Wireframe 1](/DataViz_1.jpg)
+![Wireframe 2](/DataViz_2.jpg)
+
 ## User Research
 
 ### Target Audience
@@ -19,8 +22,13 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 - Another concern was the highlighting in visual 3. The respondent wanted all non-degree-related jobs to be in gray, not in the light purple.
 - One comment was to maybe look at their education or student debt, if possible. I will go back into the Data USA and see if there is a data set based in education, in any way.
 
-
 ## Revised Wireframe/Storyboard
+
+![Revised Storyboard 1](/Rev_DataViz_1.jpg)
+
+![Revised Storyboard 2](/Rev_DataViz_2.jpg)
+
+![Revised Storyboard 3](/Rev_DataViz_3.jpg)
 
 ### Changes Made Based on User Research
 - I changed the order of the first two visuals to make concentration of people first followed by areas with the highest salary. I actually think this is really the most logical way to introduce the data, so I appreciate the comment from my respondent pointing this out.
