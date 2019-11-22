@@ -51,6 +51,6 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 
 ## Beginning of Digital Outline
 
-https://preview.shorthand.com/eD7LOH88KKM9Zpuo
+[Outline Preview](https://preview.shorthand.com/eD7LOH88KKM9Zpuo)
 
 Linked above is a preview of my Shorthand presentation. It has an outline of my presentation/deliverable and a few potential final visualizations. I will continue to visualize my data and consider revisions for the ones already on the Shorthand platform.
