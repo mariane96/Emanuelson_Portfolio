@@ -16,6 +16,8 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 ### Interview Script & Findings
 [Transcription of Responses](Interviews.pdf) 
 
+(transcribed using Otter.ai)
+
 #### Most Impactful Findings
 - It seemed that respondents had my audience about 75% right. They mainly thought it was people in the jobs outlined or people getting their degrees in this field, so I was happy with their interpretation of the audience. Their other guesses weren’t that far off of those audience bases. 
 - Another comment I found interesting was to switch the first two maps. The respondent thought the concentration of subjects in certain areas should come first, followed by where these subjects get paid the most.
@@ -39,13 +41,13 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 
 ## Persona
 
-- [Persona of Student Audience](Persona_Anna)
-- [Persona of Workforce Audience](Persona_Daniel)
+- [Persona of Student Audience](Persona_Anna.pdf)
+- [Persona of Workforce Audience](Persona_Daniel.pdf)
 
 
 ## Moodboard
 
-[Presentation and Visualizations Moodboard](Moodboard)
+[Presentation and Visualizations Moodboard](Moodboard.pdf)
 
 ## Beginning of Digital Outline
 
