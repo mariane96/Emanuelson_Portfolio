@@ -14,8 +14,6 @@ Visualizations for the course will appear below!
 
 [Critique and Visualization Assignment](/dataviz2.md)
 
-## Final Project Pages
+# Final Project 
 
-[Data Project Part 1](/DataProjectPart1.md)
-
-[Data Project Part 2](/DataProjectPart2.md)
+[Final Project Progression Page](/FinalDeliverablePage.md)
