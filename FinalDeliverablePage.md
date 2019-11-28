@@ -112,7 +112,9 @@ For these reasons, I decided to minimize my audinece to only two segments of peo
 
 ### Digital Deliverable - Final Data Story
 
-[Outline Preview](https://preview.shorthand.com/eD7LOH88KKM9Zpuo)
+[Full Final Data Story](https://carnegiemellon.shorthandstories.com/emanuelson-finaldatastory-full/index.html)
 
-Linked above is the Shorthand presentation I've created for this project. It includes all my final visualizations, as well as some text to indicate some conclusions. 
+[Final Presentation For Class](https://carnegiemellon.shorthandstories.com/emanuelson-finaldatastory-classpresentation/index.html)
+
+Linked above is the Shorthand presentation I've created for this project. It includes all my final visualizations, as well as some text to indicate some conclusions. I have also linked the slihgtly shortened presentation I will use for our in-class 60 second presentation.
 
