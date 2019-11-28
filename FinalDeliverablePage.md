@@ -90,7 +90,7 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 - I pulled data on what different institutions’ tuition costs, so I added a visualization based on that information due to what one respondent raised as a potentially interesting addition. 
 
 
-### Persona
+### Personas
 
 - [Persona of Student Audience](Persona_Anna.pdf)
 - [Persona of Workforce Audience](Persona_Daniel.pdf)
@@ -104,11 +104,19 @@ Luckily, being in an Arts Management program, there is no shortage of people in 
 
 ### Final Intended Audience
 
-In the end, I determined two final personas of viewers of my data: a current student who is working towards obtaining a visual or performing arts degree & a visual or performing arts degree recipient who is wondering about others in his cohort. There personas are represented in the persona section above. I ended up minimizing my audience due to the very differing priorities of some of my initial personas. I realized that the interests of employers who may be hiring this cohort would probbaly not line up with the data those who are actually in the cohort would want to know.
+In the end, I determined two final personas of viewers of my data: a current student who is working towards obtaining a visual or performing arts degree & a visual or performing arts degree recipient who is wondering about others in his cohort. These personas are represented in the persona section above. I ended up minimizing my audience due to the very differing priorities of some of my initial personas. I realized that the interests of employers who may be hiring this cohort would probbaly not line up with the data interest of those who are actually in the cohort.
 
-For these reasons, I decided to minimize my audinece to only two segments of people. This allowed me to hone in on certain data and created a more pointed focus to my final deliverable and presentation.
+For these reasons, I decided to minimize my audience to only two segments of people. This allowed me to hone in on certain data and created a more pointed focus to my final deliverable and presentation. I ended up focusing on the practical realities of these degree recipients to make it more beneficial for these audiences. I focused on location, money, and likely jobs. These are the main concerns of anyone who is worrying about what they'll do post-degree or anyone who is currently in the professional world and wondering how they stack up to other people with their degree.
 
 ### My Work So Far
+
+I initially wanted to utilize one other persona, so my main realization post-interviews was that my employer persona was not coming through clearly, and this was because the information wanted by employers would be pretty different than the information wanted by the actual cohort. This helped me focus in on my actual data story, which was to focus on the cohort all along. I ended up redesigning some of the aspects of my sketches to better fit this story and made additions which were concerns of some interviewees, all of which were visual or performing artists.
+
+Another main design choice I had to consider was the final conclusion scatter plot. This was something a few interviewees said they really liked because it was a solid conclusion. So I knew I needed to keep it, but I wasn't sure what jobs I should focus on. One interviewee was more concerneed about artistic jobs being represented, but I felt my presentation was aimed to be more "practical advice" already. I ended up deciding to focus on the more common jobs and the jobs that pay well, BUT I did not filter for artistic quality. I wanted this final conclusion to realistically show the types of jobs this cohort would be doing. I wanted the reality to shine through, so I specifically selected an array of diverse professions to showcase in comparison to each other. These professions were juxtaposed to show how they stacked up salary-wise and density-wise. I then highlighted the four jobs which were 'high' in both catgoeries to show that they were the best options for these degree recipients.
+
+I think this project helped me understand the diversity of data experiences one can have. Some of my visualizations, like the concentration and salary represented via a map, were very straightforward and relatively simple. Some of the other visualizations, like my final scatter plot or bar graph representing salary, job, and concentration, took a little bit more creativity and thought. I think I really got to experience a lot of different problems, like some messy data (that I did not realize was messy until I really started to visualize it). I had to take a few extra hours to clean it up in Excel, which was a reminder that you aren't always going to get perfect, clean-cut data! Sometimes you need to take the time to work within the data sheet to make it ready for visualization. 
+
+All in all, I think this project helped me gain more confidence in my visualization skills and my ability to interpret and clean up data. I feel so much more comfortable with Tableau and finding the right combination of factors to get the visualization I need. I also gained more skills in working to create the data sheet I need to work within Tableau. I thoroughly enjoyed the project, and I will be taking the skills I've learned forward with me. 
 
 ### Digital Deliverable - Final Data Story
 
