@@ -122,7 +122,7 @@ All in all, I think this project helped me gain more confidence in my visualizat
 
 [Full Final Data Story](https://carnegiemellon.shorthandstories.com/emanuelson-finaldatastory-full/index.html)
 
-[Final Presentation For Class](https://carnegiemellon.shorthandstories.com/emanuelson-finaldatastory-classpresentation/index.html)
+[Final Presentation For Class](https://docs.google.com/presentation/d/1IkPrgjfcAiCrjVzW7HUB4Ry5P1VEU8IpUVVdwaB_XcQ/edit?usp=sharing)
 
 Linked above is the Shorthand presentation I've created for this project. It includes all my final visualizations, as well as some text to indicate some conclusions. I have also linked the slihgtly shortened presentation I will use for our in-class 60 second presentation.
 
